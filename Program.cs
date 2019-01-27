@@ -4,13 +4,36 @@ namespace Methods
 {
     class Program
     {
-        public class Calculator
-        {
-            
-        }
+        
         static void Main(string[] args)
         {
-            
+            try
+            {
+                var num = int.Parse("abc");
+            }
+            catch (Exception)
+            {
+                System.Console.WriteLine("Conversion failed");
+            }
+            //code above and below do the same thing but different ways. Parse on top
+            //TryParse on bottom
+
+
+            int number;
+            var result =  int.TryParse("abc", out number);
+            if (result)
+                System.Console.WriteLine(number);
+            else   
+                System.Console.WriteLine("Conversion failed.");
+        }
+
+        static void UseParams()
+        {
+            var calcultor = new Calculator();
+            System.Console.WriteLine(calcultor.Add(1, 2));
+            System.Console.WriteLine(calcultor.Add(1, 2, 3 ));
+            System.Console.WriteLine(calcultor.Add(1, 2, 3, 4));
+            System.Console.WriteLine(calcultor.Add(new int[]{1, 2, 3 , 4, 5}));
         }
         static void UsePoints()
         {
