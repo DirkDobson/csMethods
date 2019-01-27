@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Methods/bin/Debug/netcoreapp2.1/Methods.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Methods/bin/Debug/netcoreapp2.1/Methods.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Methods/bin/Debug/netcoreapp2.1/Methods.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Methods/bin/Debug/netcoreapp2.1/Methods.dll
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Methods/bin/Debug/netcoreapp2.1/Methods.pdb
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Methods/obj/Debug/netcoreapp2.1/Methods.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Methods/obj/Debug/netcoreapp2.1/Methods.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Methods/obj/Debug/netcoreapp2.1/Methods.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Methods/obj/Debug/netcoreapp2.1/Methods.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Methods/obj/Debug/netcoreapp2.1/Methods.dll
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Methods/obj/Debug/netcoreapp2.1/Methods.pdb
