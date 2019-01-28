@@ -15,8 +15,8 @@ namespace Methods
             {
                 System.Console.WriteLine("Conversion failed");
             }
-            //code above and below do the same thing but different ways. Parse on top
-            //TryParse on bottom
+            //code above and below do the same thing but different ways.
+            // Parse on top TryParse on bottom
 
 
             int number;
